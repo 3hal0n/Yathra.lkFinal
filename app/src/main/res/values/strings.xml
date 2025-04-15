@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yathra.lkFinal</string>
+    <string name="welcome_message">Welcome to Yathra.lk</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="home_title">Explore Sri Lanka</string>
+    <string name="destination_title">Destination Details</string>
+    <string name="profile_title">My Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+</resources>

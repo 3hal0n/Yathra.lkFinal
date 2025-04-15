@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#Fe6900</color><!--Primary -->
+    <color name="secondary">#03DAC6</color> <!--secondary-->
+    <color name="accent">#1fd655</color> <!--accent-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="search_bar_bg">#F5F5F5</color>
+    <color name="search_bar_stroke">#E0E0E0</color>
+</resources>
